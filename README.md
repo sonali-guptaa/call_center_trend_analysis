@@ -2,17 +2,6 @@
 # PWC Power BI Virtual Internship Task 1 - Call Centre Trends
 ![PwC Power BI Virtual Case Experience (1)](https://user-images.githubusercontent.com/118357991/227764081-750f7560-c9f7-4563-9cb3-74186769cb42.png)
 
-## Table of Contents :
-
-- [Problem Statement](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#problem-statement-)
-- [Datasource](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#datasource-)
-- [Data Preparation](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#data-preparation)
-- [Data Modelling](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#data-analysis-dax)
-- [Data Visualization Dashboard](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#data-visualization-dashboard-)
-- [Insights](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/edit/main/README.md#insights-)
-
-
 ## Problem Statement :
 Claire, the call center manager at PhoneNow sent a mail requesting to create a dashboard in Power BI visualizing relevant Key Performance Indicators (KPIs) and metrics in the dataset provided.
 
